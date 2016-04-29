@@ -1,0 +1,12 @@
+/*
+Theme Name:     Making Your Code Extendable with Hooks and Functions
+Theme URI:      http://tutsplus.com
+Description:    Theme to support tuts+ course on extendable code. Child theme for the Twenty Fifteen theme.
+Author:         Rachel McCollin
+Author URI:     http://rachelmccollin.co.uk/
+Template:       twentysixteen
+Version:        1.0
+*/
+
+@import url("../twentysixteen/style.css");
+
